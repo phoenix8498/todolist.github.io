@@ -1,0 +1,24 @@
+h1 {
+    font: 30;
+    font-family: serif;
+    color: cornsilk;
+    background: crimson;
+}
+h2 {
+    font-family: serif;
+    color: cornsilk;
+    background: crimson;
+}
+audio {
+    color: cornsilk;
+    background: crimson;
+}
+p {
+    font-family: serif;
+    color: black;
+}
+table {
+    color: cornsilk;
+    background: crimson;
+    padding: inherit;
+}
